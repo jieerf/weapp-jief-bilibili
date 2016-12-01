@@ -20,3 +20,9 @@
 因为wxml和wxss的重要性，单独抽出来详细讲解：wxml是什么？、数据绑定、运算、组合运算、条件渲染、列表渲染、wx:key的重要性、模板的使用、事件绑定和分类、WXSS的用法和那些坑。
 
 [3.微信小程序-B站：wxml和wxss文件](notebooks/3.微信小程序-B站：wxml和wxss文件.md)
+
+# 4.微信小程序-B站：先把首页造出来（2016.12.01）
+
+实战第一篇必须把B站首页界面完成。出门右转请看效果图：[效果图太长，影响阅读，自行戳开链接](http://upload-images.jianshu.io/upload_images/640480-1de89eb7d74ceecb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+[4.微信小程序-B站：先把首页造出来](notebooks/4.微信小程序-B站：先把首页造出来.md)
